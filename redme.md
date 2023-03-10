@@ -1,0 +1,4 @@
+# FUNGSIONALITAS
+Algortima searching adalah persyaratan mendasar ketika kita menyimpan data dalam struktur data. Proses searching berguna untuk menemukan dan memvalidasi/mengasosiasikan data  dalam kumpulan data.
+# CARA KERJA PROGRAM
+Ketika program dijalankkan oleh user maka user akan ditampilkan metode-metode apa saja yang dapat digunakan, setelah itu user diminta untuk memasukan pilihan metode yang mana yang ingin digunakan, setelah memilih user metode yang ingin digunakan user diminta untuk memasukan nama dari list yang ingin dilihat indexnya, setalah itu program akan menampilkan di index berapa nama tersebut berada.
